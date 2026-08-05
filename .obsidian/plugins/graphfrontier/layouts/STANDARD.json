@@ -1,0 +1,507 @@
+{
+  "active_layout_name": "STANDARD.json",
+  "pins": {
+    "Modelos, Teoría/Teoría de Bandas.md": {
+      "x": -40,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Red Cristalina.md": {
+      "x": 20,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Principio de Exclusión de Pauli.md": {
+      "x": -80,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Potenciales variables.md": {
+      "x": -23.659673923821018,
+      "y": -4.902962165034296,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Movilidad de Portadores.md": {
+      "x": 20,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Potencial de Extracción.md": {
+      "x": -100,
+      "y": 40,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Masa Aparente.md": {
+      "x": -20,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Conductividad.md": {
+      "x": 80,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Capacidad y Carga.md": {
+      "x": 0,
+      "y": 100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Niveles de Energía.md": {
+      "x": -80,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Desplazamiento de Cargas.md": {
+      "x": 80,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelo de parámetros híbridos.md": {
+      "x": 100,
+      "y": 20,
+      "mode": "exact"
+    },
+    "Modelo de Giacoletto.md": {
+      "x": 100,
+      "y": -20,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Transistor BJT (Señal Débil).md": {
+      "x": 100,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md": {
+      "x": 160,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Semiconductor Intrínseco.md": {
+      "x": -40,
+      "y": -20,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Semiconductor Extrínseco.md": {
+      "x": 0,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/MOSFET.md": {
+      "x": 60,
+      "y": 80,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Juntura P-N.md": {
+      "x": 20,
+      "y": -20,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Estructura MOS.md": {
+      "x": 0,
+      "y": 60,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Diodos.md": {
+      "x": 40,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Contactos Óhmicos.md": {
+      "x": 40,
+      "y": 40,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/Respuesta en Frecuencia.md": {
+      "x": 120,
+      "y": 100,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/MOSFET (Canal Largo).md": {
+      "x": 60,
+      "y": 100,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/MOSFET (Canal Corto).md": {
+      "x": 120,
+      "y": 80,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/MOS NO IDEAL.md": {
+      "x": -80,
+      "y": 60,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/Modos de operación.md": {
+      "x": -40,
+      "y": 40,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/Diodo No Ideal.md": {
+      "x": 80,
+      "y": 40,
+      "mode": "exact"
+    }
+  },
+  "orbit_pins": {},
+  "saved_positions": {
+    "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md": {
+      "x": -23.828930788035017,
+      "y": 134.65582564773214
+    },
+    "Modelo de Giacoletto.md": {
+      "x": 100,
+      "y": -20
+    },
+    "Modelo de parámetros híbridos.md": {
+      "x": 100,
+      "y": 20
+    },
+    "Modelos, Teoría/Teoría de Bandas.md": {
+      "x": -40,
+      "y": -60
+    },
+    "Modelos, Teoría/Red Cristalina.md": {
+      "x": 20,
+      "y": -60
+    },
+    "Modelos, Teoría/Niveles de Energía.md": {
+      "x": -80,
+      "y": -60
+    },
+    "Modelos, Teoría/Principio de Exclusión de Pauli.md": {
+      "x": -80,
+      "y": -100
+    },
+    "Modelos, Teoría/Parametros/Potenciales variables.md": {
+      "x": -23.659673923821018,
+      "y": -4.902962165034296
+    },
+    "Modelos, Teoría/Parametros/Potencial de Extracción.md": {
+      "x": -100,
+      "y": 40
+    },
+    "Modelos, Teoría/Parametros/Conductividad.md": {
+      "x": 80,
+      "y": -100
+    },
+    "Modelos, Teoría/Parametros/Movilidad de Portadores.md": {
+      "x": 20,
+      "y": -100
+    },
+    "Modelos, Teoría/Parametros/Capacidad y Carga.md": {
+      "x": 0,
+      "y": 100
+    },
+    "Modelos, Teoría/Parametros/Masa Aparente.md": {
+      "x": -20,
+      "y": -100
+    },
+    "Modelos, Teoría/Desplazamiento de Cargas.md": {
+      "x": 80,
+      "y": -60
+    },
+    "Impedancia.md": {
+      "x": -56.0325706848166,
+      "y": 129.40515482632978
+    },
+    "Materiales, Estructuras/Semiconductor Extrínseco.md": {
+      "x": 0,
+      "y": 0
+    },
+    "Materiales, Estructuras/Semiconductor Intrínseco.md": {
+      "x": -40,
+      "y": -20
+    },
+    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md": {
+      "x": 160,
+      "y": 0
+    },
+    "Materiales, Estructuras/Transistor BJT (Señal Débil).md": {
+      "x": 100,
+      "y": 0
+    },
+    "Materiales, Estructuras/MOSFET.md": {
+      "x": 60,
+      "y": 80
+    },
+    "Materiales, Estructuras/Juntura P-N.md": {
+      "x": 20,
+      "y": -20
+    },
+    "Materiales, Estructuras/Contactos Óhmicos.md": {
+      "x": 40,
+      "y": 40
+    },
+    "Materiales, Estructuras/Diodos.md": {
+      "x": 40,
+      "y": 0
+    },
+    "Materiales, Estructuras/Estructura MOS.md": {
+      "x": 0,
+      "y": 60
+    },
+    "Comportamiento de la estructura/MOSFET (Canal Largo).md": {
+      "x": 60,
+      "y": 100
+    },
+    "Comportamiento de la estructura/MOS NO IDEAL.md": {
+      "x": -80,
+      "y": 60
+    },
+    "Comportamiento de la estructura/Respuesta en Frecuencia.md": {
+      "x": 120,
+      "y": 100
+    },
+    "Comportamiento de la estructura/Diodo No Ideal.md": {
+      "x": 80,
+      "y": 40
+    },
+    "Comportamiento de la estructura/MOSFET (Canal Corto).md": {
+      "x": 120,
+      "y": 80
+    },
+    "Comportamiento de la estructura/Modos de operación.md": {
+      "x": -40,
+      "y": 40
+    },
+    "Admitancia.md": {
+      "x": -44.47796505466996,
+      "y": 159.91966048196988
+    }
+  },
+  "saved_layout_settings": {
+    "grid_step": 20,
+    "show_grid": true,
+    "hide_orphans": true,
+    "hide_attachments": true,
+    "attachments_on_orbits": true,
+    "existing_files_only": true,
+    "search_mode": "find",
+    "quick_pick_modifier": "alt",
+    "selection_box_modifier": "shift",
+    "selection_toggle_modifier": "none",
+    "node_size_scale": 1.11,
+    "edge_width_scale": 5.46,
+    "painted_edge_width": 1,
+    "label_zoom_steps": 14,
+    "label_font_size": 20,
+    "hover_dim_strength": 80,
+    "strong_pull_multiplier": 1,
+    "orbit_distance": 48,
+    "attachment_size_multiplier": 1,
+    "attachment_link_distance_multiplier": 20,
+    "base_link_strength": 46,
+    "link_distance": 24,
+    "repel_strength": 51,
+    "repel_radius": 265,
+    "center_strength": 1,
+    "damping": 0.18,
+    "layout_autosave": true,
+    "export_static_html_path": ""
+  },
+  "saved_layout_pins": {
+    "Modelos, Teoría/Teoría de Bandas.md": {
+      "x": -40,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Red Cristalina.md": {
+      "x": 20,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Principio de Exclusión de Pauli.md": {
+      "x": -80,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Potenciales variables.md": {
+      "x": -23.659673923821018,
+      "y": -4.902962165034296,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Movilidad de Portadores.md": {
+      "x": 20,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Potencial de Extracción.md": {
+      "x": -100,
+      "y": 40,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Masa Aparente.md": {
+      "x": -20,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Conductividad.md": {
+      "x": 80,
+      "y": -100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Parametros/Capacidad y Carga.md": {
+      "x": 0,
+      "y": 100,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Niveles de Energía.md": {
+      "x": -80,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelos, Teoría/Desplazamiento de Cargas.md": {
+      "x": 80,
+      "y": -60,
+      "mode": "exact"
+    },
+    "Modelo de parámetros híbridos.md": {
+      "x": 100,
+      "y": 20,
+      "mode": "exact"
+    },
+    "Modelo de Giacoletto.md": {
+      "x": 100,
+      "y": -20,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Transistor BJT (Señal Débil).md": {
+      "x": 100,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md": {
+      "x": 160,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Semiconductor Intrínseco.md": {
+      "x": -40,
+      "y": -20,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Semiconductor Extrínseco.md": {
+      "x": 0,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/MOSFET.md": {
+      "x": 60,
+      "y": 80,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Juntura P-N.md": {
+      "x": 20,
+      "y": -20,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Estructura MOS.md": {
+      "x": 0,
+      "y": 60,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Diodos.md": {
+      "x": 40,
+      "y": 0,
+      "mode": "exact"
+    },
+    "Materiales, Estructuras/Contactos Óhmicos.md": {
+      "x": 40,
+      "y": 40,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/Respuesta en Frecuencia.md": {
+      "x": 120,
+      "y": 100,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/MOSFET (Canal Largo).md": {
+      "x": 60,
+      "y": 100,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/MOSFET (Canal Corto).md": {
+      "x": 120,
+      "y": 80,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/MOS NO IDEAL.md": {
+      "x": -80,
+      "y": 60,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/Modos de operación.md": {
+      "x": -40,
+      "y": 40,
+      "mode": "exact"
+    },
+    "Comportamiento de la estructura/Diodo No Ideal.md": {
+      "x": 80,
+      "y": 40,
+      "mode": "exact"
+    }
+  },
+  "saved_layout_orbit_pins": {},
+  "node_force_multipliers": {},
+  "strong_pull_nodes": {},
+  "painted_edge_colors": {},
+  "groups": [
+    {
+      "id": "group_mrl0lxc3_1qsvl5",
+      "query": "path:Materiales, Estructuras",
+      "color": "#f77878",
+      "enabled": true
+    },
+    {
+      "id": "group_mrl0msz7_qblheb",
+      "query": "path:Modelos, Teoría/Parametros/",
+      "color": "#eff778",
+      "enabled": true
+    },
+    {
+      "id": "group_mrl0nvwz_uf78ru",
+      "query": "path:Modelos, Teoría/",
+      "color": "#fea43e",
+      "enabled": true
+    }
+  ],
+  "blacklist": [],
+  "whitelist": [],
+  "hotkeys": {},
+  "settings": {
+    "grid_step": 20,
+    "show_grid": true,
+    "hide_orphans": true,
+    "hide_attachments": true,
+    "attachments_on_orbits": true,
+    "existing_files_only": true,
+    "search_mode": "find",
+    "quick_pick_modifier": "alt",
+    "selection_box_modifier": "shift",
+    "selection_toggle_modifier": "none",
+    "node_size_scale": 1.11,
+    "edge_width_scale": 5.46,
+    "painted_edge_width": 1,
+    "label_zoom_steps": 14,
+    "label_font_size": 20,
+    "hover_dim_strength": 80,
+    "strong_pull_multiplier": 1,
+    "orbit_distance": 48,
+    "attachment_size_multiplier": 1,
+    "attachment_link_distance_multiplier": 20,
+    "base_link_strength": 46,
+    "link_distance": 24,
+    "repel_strength": 51,
+    "repel_radius": 265,
+    "center_strength": 1,
+    "damping": 0.18,
+    "layout_autosave": true,
+    "export_static_html_path": ""
+  },
+  "view_state": {
+    "pan_x": 25.312992226206948,
+    "pan_y": 194.52076959661395,
+    "zoom": 1.7623416832000038,
+    "side_panel_sections": {}
+  }
+}

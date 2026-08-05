@@ -4,102 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "48c28d935f935acd",
-        "type": "tabs",
-        "dimension": 52.411994784876136,
-        "children": [
-          {
-            "id": "d2ce0fea9d25b684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comportamiento de la estructura/Diodo No Ideal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diodo No Ideal"
-            }
-          },
-          {
-            "id": "8f00c55883eb360d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materiales, Estructuras/Diodos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diodos"
-            }
-          },
-          {
-            "id": "e4ba0bca6264eead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comportamiento de la estructura/MOSFET (Canal Corto).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MOSFET (Canal Corto)"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "690fc3645c292157",
+        "id": "fa0e6249f1b8f860",
         "type": "split",
-        "dimension": 47.58800521512386,
         "children": [
           {
-            "id": "be8980bb26221416",
+            "id": "2c91fde8b27d6059",
             "type": "tabs",
-            "dimension": 35.9925788497217,
+            "dimension": 75.22816166883963,
             "children": [
               {
-                "id": "17497e5a83f0fcc7",
+                "id": "612d1720219017ca",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Modelos, Teoría/Teoría de Bandas.md",
+                    "file": "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Teoría de Bandas"
+                  "title": "Cambio entre Impedancia y Admitancia"
+                }
+              },
+              {
+                "id": "dd19bcb6bd52a2dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Impedancia.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Impedancia"
+                }
+              },
+              {
+                "id": "0415c9c4fcb3f78c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Teoría de Circuitos I/Análisis Matricial de Circuitos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Análisis Matricial de Circuitos"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
-            "id": "92398ef41dc226ea",
-            "type": "tabs",
-            "dimension": 64.00742115027829,
+            "id": "6941e0a4f8f53f9b",
+            "type": "split",
+            "dimension": 24.771838331160367,
             "children": [
               {
-                "id": "2583b22acd13f8d7",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
+                "id": "be8980bb26221416",
+                "type": "tabs",
+                "dimension": 65.7699443413729,
+                "children": [
+                  {
+                    "id": "120488812de8f0c2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "acd8755505a1cf04",
+                "type": "tabs",
+                "dimension": 34.23005565862709,
+                "children": [
+                  {
+                    "id": "0d316ae7a6aa7549",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graphfrontier-view",
+                      "state": {},
+                      "pinned": true,
+                      "icon": "orbit",
+                      "title": "GraphFrontier"
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -119,7 +122,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -233,6 +238,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graphfrontier:Open GraphFrontier": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -244,28 +250,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2583b22acd13f8d7",
+  "active": "0415c9c4fcb3f78c",
   "lastOpenFiles": [
-    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
-    "Materiales, Estructuras/Transistor BJT (Señal Débil).md",
-    "Modelos, Teoría/Desplazamiento de Cargas.md",
+    "Teoría de Circuitos I/Análisis Matricial de Circuitos.md",
+    "Admitancia.md",
+    "Impedancia.md",
+    "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md",
+    "Materiales, Estructuras/Estructura MOS.md",
     "Materiales, Estructuras/Diodos.md",
+    "Images/Graphs_SVG/L + R@2x.png",
+    "Images/Graphs_SVG/L + R@2x.png.tmp$$",
+    "Modelo de parámetros híbridos.md",
+    "Images/psF41F.tmp",
+    "Images/firefox_gENRFrsVNz.png",
+    "Pasted image 20260803135051.png",
+    "Teoría de Circuitos I",
+    "Modelos, Teoría/Parametros/Conductividad.md",
+    "Modelos, Teoría/Teoría de Bandas.md",
+    "Pasted image 20260519174227.png",
+    "Comportamiento de la estructura/Diodo No Ideal.md",
+    "Untitled.base",
+    "Comportamiento de la estructura/MOSFET (Canal Corto).md",
+    "Untitled.canvas",
+    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
+    "Materiales, Estructuras/Contactos Óhmicos.md",
+    "Modelos, Teoría/Desplazamiento de Cargas.md",
+    "Modelo de Giacoletto.md",
+    "Materiales, Estructuras/Transistor BJT (Señal Débil).md",
     "Comportamiento de la estructura/MOSFET (Canal Largo).md",
     "Comportamiento de la estructura/Respuesta en Frecuencia.md",
     "Modelos, Teoría/Parametros/Movilidad de Portadores.md",
-    "Modelos, Teoría/Parametros/Conductividad.md",
     "Materiales, Estructuras/Juntura P-N.md",
     "Modelos, Teoría/Principio de Exclusión de Pauli.md",
     "Modelos, Teoría/Red Cristalina.md",
-    "Modelos, Teoría/Teoría de Bandas.md",
     "Modelos, Teoría/Parametros/Masa Aparente.md",
-    "Comportamiento de la estructura/Diodo No Ideal.md",
-    "Comportamiento de la estructura/MOSFET (Canal Corto).md",
     "Comportamiento de la estructura/MOS NO IDEAL.md",
-    "Materiales, Estructuras/Estructura MOS.md",
     "Materiales, Estructuras/MOSFET.md",
-    "Materiales, Estructuras/Semiconductor Intrínseco.md",
-    "Materiales, Estructuras/Semiconductor Extrínseco.md",
     "Images/parapapa.png",
     "Images/ps859A.tmp",
     "Images/psE051.tmp",
@@ -274,23 +294,9 @@
     "Images/firefox_ojJKjux0k5.png",
     "Images/psD91E.tmp",
     "Images/firefox_I3Sbgbdnp3.png",
-    "Materiales, Estructuras/Contactos Óhmicos.md",
-    "Comportamiento de la estructura/Modos de operación.md",
     "Images/ps2CC9.tmp",
     "Images/firefox_8gFSQ1zYtY.png",
     "Images/ps4914.tmp",
-    "Images/psFB3.tmp",
-    "Images/firefox_3b2aG2l1AB.png",
-    "Images/ps4224.tmp",
-    "Images/firefox_1nWsMr7PNp.png",
-    "Images/ps9240.tmp",
-    "Images/firefox_65cZ3o9zIn.png",
-    "Images/psF442.tmp",
-    "Images/firefox_PHi3FVzaek.png",
-    "Images/firefox_PiFMn8dwCT.png",
-    "Modelos, Teoría/Niveles de Energía.md",
-    "Modelos, Teoría/Parametros/Capacidad y Carga.md",
-    "TODO.md",
-    "Modelos, Teoría/Parametros/Potenciales variables.md"
+    "Images/firefox_3b2aG2l1AB.png"
   ]
 }

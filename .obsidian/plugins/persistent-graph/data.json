@@ -2,18 +2,18 @@
   "nodePositions": [
     {
       "id": "Comportamiento de la estructura/Diodo No Ideal.md",
-      "x": 373.97705078125,
-      "y": -823.021728515625
+      "x": 423.79302978515625,
+      "y": -833.3455810546875
     },
     {
       "id": "Comportamiento de la estructura/MOS NO IDEAL.md",
-      "x": -382.0486755371094,
-      "y": -253.38539123535156
+      "x": -500.25372314453125,
+      "y": -262.1727294921875
     },
     {
       "id": "Comportamiento de la estructura/MOSFET (Canal Corto).md",
-      "x": 596.022216796875,
-      "y": -361.24322509765625
+      "x": 654.93017578125,
+      "y": -354.8733215332031
     },
     {
       "id": "Comportamiento de la estructura/MOSFET (Canal Largo).md",
@@ -22,113 +22,138 @@
     },
     {
       "id": "Comportamiento de la estructura/Modos de operación.md",
-      "x": 8.981860160827637,
-      "y": 59.54612731933594
+      "x": 19.158477783203125,
+      "y": 125.667236328125
     },
     {
       "id": "Comportamiento de la estructura/Respuesta en Frecuencia.md",
-      "x": 487.18896484375,
-      "y": 46.76629638671875
+      "x": 484.9488830566406,
+      "y": 110.13618469238281
     },
     {
       "id": "Materiales, Estructuras/Contactos Óhmicos.md",
-      "x": 370.3959655761719,
-      "y": -587.0587768554688
+      "x": 419.5750732421875,
+      "y": -579.5590209960938
     },
     {
       "id": "Materiales, Estructuras/Diodos.md",
-      "x": 101.7472915649414,
-      "y": -824.462158203125
+      "x": 116.69695281982422,
+      "y": -841.745361328125
     },
     {
       "id": "Distribución de Maxwell",
-      "x": 375.8138122558594,
-      "y": -1004.22998046875
+      "x": 422.2677001953125,
+      "y": -1037.9031982421875
     },
     {
       "id": "Materiales, Estructuras/Estructura MOS.md",
-      "x": -133.15793871794006,
-      "y": -357.3633889411426
+      "x": -145.65718334218218,
+      "y": -356.993538596506
     },
     {
       "id": "Materiales, Estructuras/Juntura P-N.md",
-      "x": 107.42729187011719,
-      "y": -596.36572265625
+      "x": 123.64761352539062,
+      "y": -584.139404296875
     },
     {
       "id": "Materiales, Estructuras/MOSFET.md",
-      "x": 259.85930430056465,
-      "y": -356.8117836975309
+      "x": 257.84888772369516,
+      "y": -356.8709673805019
     },
     {
       "id": "Materiales, Estructuras/Semiconductor Extrínseco.md",
-      "x": -140.9456024169922,
-      "y": -598.0337524414062
+      "x": -153.0314178466797,
+      "y": -587.6809692382812
     },
     {
       "id": "Materiales, Estructuras/Semiconductor Intrínseco.md",
-      "x": -500.1244201660156,
-      "y": -593.0802001953125
+      "x": -556.3130493164062,
+      "y": -581.360107421875
+    },
+    {
+      "id": "Materiales, Estructuras/Transistor BJT (Señal Débil).md",
+      "x": 107.4989013671875,
+      "y": -1465.859375
+    },
+    {
+      "id": "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
+      "x": 104.59052276611328,
+      "y": -1678.1036376953125
     },
     {
       "id": "Modelos, Teoría/Desplazamiento de Cargas.md",
-      "x": -43.730159759521484,
-      "y": -1020.62451171875
+      "x": -93.1587905883789,
+      "y": -1056.12548828125
     },
     {
       "id": "Modelos, Teoría/Niveles de Energía.md",
-      "x": -468.2762756347656,
-      "y": -890.9898681640625
+      "x": -519.6982421875,
+      "y": -907.8900146484375
     },
     {
       "id": "Modelos, Teoría/Parametros/Capacidad y Carga.md",
-      "x": -123.90819073738055,
-      "y": -165.29149825096545
+      "x": -146.1905196036999,
+      "y": -170.6612270666676
     },
     {
       "id": "Modelos, Teoría/Parametros/Conductividad.md",
-      "x": -46.54447555541992,
-      "y": -1230.5079345703125
+      "x": -93.83822631835938,
+      "y": -1289.5357666015625
     },
     {
       "id": "Modelos, Teoría/Parametros/Masa Aparente.md",
-      "x": -601.2979736328125,
-      "y": -1027.321533203125
+      "x": -671.2937622070312,
+      "y": -1068.54931640625
     },
     {
       "id": "Modelos, Teoría/Parametros/Movilidad de Portadores.md",
-      "x": -326.3186950683594,
-      "y": -1229.6090087890625
+      "x": -363.06494140625,
+      "y": -1295.148681640625
     },
     {
       "id": "Modelos, Teoría/Parametros/Potencial de Extracción.md",
-      "x": -479.0548400878906,
-      "y": 52.68339538574219
+      "x": -498.2893371582031,
+      "y": 9.895508766174316
     },
     {
       "id": "Modelos, Teoría/Parametros/Potenciales variables.md",
-      "x": -254.27549743652344,
-      "y": 59.98781967163086
+      "x": -274.76751708984375,
+      "y": 125.5355224609375
     },
     {
       "id": "Modelos, Teoría/Principio de Exclusión de Pauli.md",
-      "x": -650.514404296875,
-      "y": -746.0453491210938
+      "x": -728.3296508789062,
+      "y": -744.1463623046875
     },
     {
       "id": "Modelos, Teoría/Red Cristalina.md",
-      "x": -322.9380187988281,
-      "y": -1025.62890625
+      "x": -351.28277587890625,
+      "y": -1061.6533203125
     },
     {
       "id": "Modelos, Teoría/Teoría de Bandas.md",
-      "x": -319.80999755859375,
-      "y": -755.6294555664062
+      "x": -345.60809326171875,
+      "y": -754.7275390625
     },
     {
       "id": "TODO.md",
-      "x": -288.1819763183594,
-      "y": 1700.3843994140625
+      "x": 1186.6068115234375,
+      "y": -899.7039184570312
+    },
+    {
+      "id": "Modelo de parámetros híbridos.md",
+      "x": 381.6631774902344,
+      "y": -1308.291748046875
+    },
+    {
+      "id": "Modelo de Giacoletto.md",
+      "x": 640.6304931640625,
+      "y": -1462.9073486328125
+    },
+    {
+      "id": "Untitled.base",
+      "x": 1406.10498046875,
+      "y": -921.8092041015625
     }
   ],
   "automaticallyRestoreNodePositions": true
