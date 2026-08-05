@@ -144,13 +144,13 @@
   },
   "orbit_pins": {},
   "saved_positions": {
-    "conflict-files-obsidian-git.md": {
-      "x": 111.22134312077938,
-      "y": 20.79143953622461
+    "Teoría de Circuitos I/Factores de Potencia.md": {
+      "x": 5.737457638155332,
+      "y": 78.09653286194194
     },
     "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md": {
-      "x": -23.828930788035017,
-      "y": 134.65582564773214
+      "x": -7.6806946437958485,
+      "y": 141.24589277456786
     },
     "Modelo de Giacoletto.md": {
       "x": 100,
@@ -205,8 +205,8 @@
       "y": -60
     },
     "Impedancia.md": {
-      "x": -56.0325706848166,
-      "y": 129.40515482632978
+      "x": -11.128640745852564,
+      "y": 107.581784058426
     },
     "Materiales, Estructuras/Semiconductor Extrínseco.md": {
       "x": 0,
@@ -269,8 +269,8 @@
       "y": 40
     },
     "Admitancia.md": {
-      "x": -44.47796505466996,
-      "y": 159.91966048196988
+      "x": -37.582275372432456,
+      "y": 128.64108800449335
     }
   },
   "saved_layout_settings": {
@@ -503,9 +503,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 25.312992226206948,
-    "pan_y": 194.52076959661395,
-    "zoom": 1.7623416832000038,
+    "pan_x": 30.00000000000003,
+    "pan_y": 29.959830240984957,
+    "zoom": 0.9999999999999999,
     "side_panel_sections": {}
   }
 }
