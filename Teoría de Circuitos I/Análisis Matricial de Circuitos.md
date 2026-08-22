@@ -112,7 +112,7 @@ $\Large V_o = V_R = I_R * R$   (Acordate de esta)
 
 Finalmente, la corriente de entrada, por ley de nodos:
 $\Large I_i = I_R + I_o$
-Como la corriente en una misma rama es identica, $\Large I_{o} = i_l = i_c =C \cdot \frac{d v_c}{dt}$
+Como la corriente en una misma rama es idéntica, $\Large I_{o} = i_l = i_c =C \cdot \frac{d v_c}{dt}$
 $\Large I_i = \frac{V_o}{R} + C\frac{d v_c}{dt}$
 
 ### Tercer paso: Despejar las derivadas

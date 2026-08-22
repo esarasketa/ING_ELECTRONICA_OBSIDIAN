@@ -1,0 +1,9 @@
+ Make all rendered LaTeX equations larger 
+.MathJax, mjx-container {
+    font-size: 1.3em !important;
+}
+
+ Optional Make the raw LaTeX code larger while editing 
+.cm-s-obsidian span.cm-math {
+    font-size: 1.3em;
+}
