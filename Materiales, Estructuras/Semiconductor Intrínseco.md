@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Material que intrínsecamente no conduce corriente a temperatura ambiente, de acuerdo a la [[Teoría de Bandas]]. Comúnmente, se trata de Silicio puro y **sin contaminaciones.**
 
 Un semiconductor ideal tiene una *concentración de portadores* simétrica, es decir, $n_0 = p_0$.
@@ -22,3 +26,5 @@ Se define Concentración Intrínseca de portadores como    $\large n_i = n_0 = p
 Esto es importante para entender las concentraciones en los extrínsecos. $\large \downarrow$
 
 Si a este material intrínseco se le contamina o *dopa* con otros elementos, se vuelve un [[Semiconductor Extrínseco]], el cual presenta propiedades distintas en equilibrio térmico.
+
+#DISPO

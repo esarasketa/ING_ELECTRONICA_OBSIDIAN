@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Dentro de una [[Red Cristalina]], definimos la movilidad de portadores $\LARGE \mu_n$ y $\LARGE \mu_p$ y como la rapidez con la cual los portadores se desplazan a través de la red cuando se aplica un campo eléctrico $E$.
 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - TEORIA_DE_CIRCUITOS_1
+---
 
 Esta nota explica como efectuar cambios entre [[Impedancia]] y [[Admitancia]].
 

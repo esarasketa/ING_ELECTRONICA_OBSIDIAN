@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,37 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Materiales, Estructuras\"  ",
+      "query": "tag:#DISPO  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#APLICADA_1  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#DIGITALES_1",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#TEORIA_DE_CIRCUITOS_1  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
-    },
-    {
-      "query": "path:\"Modelos, Teoría/Parametros\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15656747
-      }
-    },
-    {
-      "query": "path:\"Modelos, Teoría\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14651168
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1.8609375,
-  "lineSizeMultiplier": 4.05572916666667,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 3.3377568264698,
+  "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 0,
-  "linkStrength": 0,
-  "linkDistance": 167,
-  "scale": 0.2896965833697642,
-  "close": true
+  "centerStrength": 0.182602508227341,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 322,
+  "scale": 0.21280715164741743,
+  "close": false
 }

@@ -1,3 +1,7 @@
+---
+tags:
+  - TEORIA_DE_CIRCUITOS_1
+---
 #Matrices #Matrices_De_Estado #Variables_De_Estado
 
 Las matrices de estado aparecen como solución al análisis de circuitos de alta complejidad.  

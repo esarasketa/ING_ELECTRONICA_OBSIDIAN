@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 **M**ETAL 
 **O**XIDE
 **S**EMICONDUCTOR
@@ -30,3 +34,5 @@ Debido al *scaling* (tendencia tecnológica a achicar los componentes), eventual
 Sea este el caso, debemos olvidar lo aprendido en los MOSFET de Canal Largo (osea no) y adentrarnos en los [[MOSFET (Canal Corto)|MOSFET de Canal Corto]].
 
 
+
+#DISPO

@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 El modelo de Bandas De Energía establece niveles potencialmente infinitos para que los electrones ocupen dentro de las esferas de influencia de una red atómica.
 
 En un principio, este modelo nace de la incompatibilidad entre el [[Principio de Exclusión de Pauli]] y [[Red Cristalina]]. Ya que según el segundo, los átomos deben compartir electrones entre ellos cuando forman enlaces, lo cual no debería ser posible según el primero, que plantea que no pueden existir 2 electrones con las mismas propiedades en un mismo espacio.

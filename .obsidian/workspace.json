@@ -8,80 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "612d1720219017ca",
+            "id": "cdf4480a7fbb0f0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoría de Circuitos I/Análisis Matricial de Circuitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Análisis Matricial de Circuitos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "0415c9c4fcb3f78c",
+            "id": "20144ec24b15df80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APLICADA 1/MOSFET DISEÑO 1.md",
+                "file": "DIGITALES I/Contador LFSR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOSFET DISEÑO 1"
-            }
-          },
-          {
-            "id": "ede658463a5dd869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materiales, Estructuras/Juntura P-N.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Juntura P-N"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e9fc9090067e2322",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ebd1c444af751573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APLICADA 1/Clase 1 2026_08_12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 1 2026_08_12"
-            }
-          },
-          {
-            "id": "9b9b142e3485efdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APLICADA 1/Clase 2 2026_08_12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 2 2026_08_12"
+              "title": "Contador LFSR"
             }
           }
         ]
@@ -118,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ShapeHexagon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +81,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -159,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kihära (Hive Daughters).md",
+                "file": "DIGITALES I/Contador LFSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kihära (Hive Daughters)"
+              "title": "Backlinks"
             }
           },
           {
@@ -193,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -205,18 +157,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kihära (Hive Daughters).md"
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kihära (Hive Daughters)"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d07d5d3aec562f1f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,53 +200,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd1c444af751573",
+  "active": "cdf4480a7fbb0f0c",
   "lastOpenFiles": [
-    "APLICADA 1/MOSFET DISEÑO 1.md",
-    "APLICADA 1/Clase 1 2026_08_12.md",
-    "APLICADA 1/Clase 2 2026_08_12.md",
-    "APLICADA 1/Screencaps/Pasted image 20260821170350.png",
-    "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md",
-    "APLICADA 1/Screencaps/Untitled.md",
+    "DIGITALES I/Contador LFSR.md",
+    "DIGITALES I/Contadores.md",
+    "DIGITALES I/Tiempos de Operación.md",
+    "DIGITALES I/Contador Johnson.md",
+    "DIGITALES I/Attachments/Pasted image 20260908193207.png",
+    "DIGITALES I/Contador en Anillo.md",
+    "Modelo de Giacoletto.md",
+    "DIGITALES I/Metaestabilidad.md",
+    "Teoría de Circuitos I/Impedancia.md",
     "Teoría de Circuitos I/Factores de Potencia.md",
+    "Teoría de Circuitos I/Admitancia.md",
+    "Untitled 1.base",
     "Teoría de Circuitos I/Análisis Matricial de Circuitos.md",
-    "APLICADA 1/Screencaps/Pasted image 20260815115827.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815115359.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815115335.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815105835.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815102444.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815094248.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815094255.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815095035.png",
-    "APLICADA 1/Screencaps/Pasted image 20260815102407.png",
+    "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md",
+    "Materiales, Estructuras/Diodos.md",
+    "Materiales, Estructuras/Contactos Óhmicos.md",
+    "DIGITALES I/Attachments/Pasted image 20260908152142.png",
+    "DIGITALES I/Attachments/ps3B73.tmp",
+    "Pasted image 20260905091633.png",
+    "ot.md",
+    "DIGITALES I/Attachments/Pasted image 20260908141543.png",
+    "DIGITALES I/Attachments/Pasted image 20260908134432.png",
+    "DIGITALES I/Attachments/ps4CC8.tmp",
+    "Pasted image 20260908133737.png",
+    "Pasted image 20260905095050.png",
+    "DIGITALES I/Attachments/ps5842.tmp",
+    "Pasted image 20260905093609.png",
+    "Pasted image 20260803135051.png",
+    "Pasted image 20260519174227.png",
+    "DIGITALES I/Attachments/ps7A93.tmp",
+    "DIGITALES I/Attachments/psB215.tmp",
+    "DIGITALES I/Attachments/ps43E0.tmp",
+    "Materiales, Estructuras/MOSFET.md",
+    "DIGITALES I/Attachments/psEAE0.tmp",
+    "DIGITALES I/Attachments/ps8AC1.tmp",
+    "DIGITALES I/Attachments/ps6DC0.tmp",
+    "APLICADA 1/Clase 6 2026_09_5.md",
+    "APLICADA 1/Clase 2 2026_08_12.md",
+    "APLICADA 1/Clase 1 2026_08_12.md",
+    "APLICADA 1/MOSFET DISEÑO 1.md",
+    "APLICADA 1/Screencaps/Untitled.md",
     "APLICADA 1/INTRO.md",
-    "APLICADA 1/Screencaps",
     "TODO.md",
     "Materiales, Estructuras/Juntura P-N.md",
     "Modelos, Teoría/Red Cristalina.md",
-    "APLICADA 1",
-    "Impedancia.md",
-    "conflict-files-obsidian-git.md",
-    "Admitancia.md",
-    "Materiales, Estructuras/Estructura MOS.md",
-    "Materiales, Estructuras/Diodos.md",
-    "Images/Graphs_SVG/L + R@2x.png.tmp$$",
-    "Modelo de parámetros híbridos.md",
-    "Images/psF41F.tmp",
-    "Teoría de Circuitos I",
-    "Modelos, Teoría/Parametros/Conductividad.md",
-    "Modelos, Teoría/Teoría de Bandas.md",
-    "Comportamiento de la estructura/Diodo No Ideal.md",
-    "Untitled.base",
-    "Comportamiento de la estructura/MOSFET (Canal Corto).md",
-    "Untitled.canvas",
-    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
-    "Materiales, Estructuras/Contactos Óhmicos.md",
-    "Modelos, Teoría/Desplazamiento de Cargas.md",
-    "Modelo de Giacoletto.md",
-    "Images/ps859A.tmp",
-    "Images/psE051.tmp",
-    "Images/ps424A.tmp",
-    "Images/psD91E.tmp"
+    "Untitled.canvas"
   ]
 }

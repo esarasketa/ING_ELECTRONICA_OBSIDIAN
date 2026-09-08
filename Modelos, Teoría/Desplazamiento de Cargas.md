@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Dentro de una [[Red Cristalina]], se observan dos tipos de desplazamientos de carga.
 
 ## Corrimiento

@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Definimos conductividad $\sigma$ como la capacidad de la red cristalina para permitir el flujo de corriente eléctrica.
 
 Nuevamente, aplicamos un campo eléctrico $E$, y provoca un velocidad $v = - \mu_nE$ 

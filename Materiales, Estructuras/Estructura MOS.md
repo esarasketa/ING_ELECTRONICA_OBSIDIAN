@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Juntura Metal-Oxido-[[Semiconductor Extrínseco|Semiconductor.]]
 
 ## [[Modos de operación]] 
@@ -6,3 +10,5 @@ Juntura Metal-Oxido-[[Semiconductor Extrínseco|Semiconductor.]]
 
 ## [[MOS NO IDEAL]]
 
+
+#DISPO

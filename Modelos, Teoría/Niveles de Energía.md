@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 ![[firefox_VfXphBdbAJ.png]]
 
 Donde, como en el [[Teoría de Bandas|Modelo de bandas]], se representan niveles energéticos.

@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 ### $\Phi$ = Potencial de extracción
 
 Potencial de extracción / *Trabajo* de extracción $\to$ energía mínima necesaria para que un electrón escape del nivel de Fermi de un material.

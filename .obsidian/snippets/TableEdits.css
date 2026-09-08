@@ -1,0 +1,20 @@
+/* Float table to the left, text wraps on the right */
+.markdown-rendered .table-left table {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    max-width: 50%;
+}
+
+/* Float table to the right, text wraps on the left */
+.markdown-rendered .table-right table {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    max-width: 50%;
+}
+
+/* Clearfix to stop wrapping when you want to start a new paragraph below */
+.clear-wrap {
+    clear: both;
+}

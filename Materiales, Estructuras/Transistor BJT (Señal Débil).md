@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 <<<<<<< HEAD
 [[Transistor BJT (Señal Fuerte)]]  
 
@@ -13,3 +17,5 @@ FLAG:GITTST
 
 [[Transistor BJT (Señal Fuerte)]]  
 >>>>>>> origin/main
+
+#DISPO

@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 ![[firefox_8gFSQ1zYtY.png]]
 
 Los contactos son, idealmente, las conexiones metálicas con el exterior del diodo.

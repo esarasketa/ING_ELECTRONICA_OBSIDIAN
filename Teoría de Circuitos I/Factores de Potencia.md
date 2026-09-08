@@ -1,3 +1,7 @@
+---
+tags:
+  - TEORIA_DE_CIRCUITOS_1
+---
 ## Potencia Real $\LARGE P,$   $\LARGE P_{Activa}$ 
 
 La potencia de toda la vida. Es la unidad de medición de "cuanta energía sale de la fuente y se convierte en otra cosa".

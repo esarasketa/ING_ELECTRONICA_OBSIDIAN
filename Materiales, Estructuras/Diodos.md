@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 
 Ciertamente, un diodo no es mas que una [[Juntura P-N]] con [[Contactos Óhmicos]]. Por lo que para el estudio de comportamiento los términos van a ser casi intercambiables.
 

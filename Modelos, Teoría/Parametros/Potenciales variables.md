@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 
 ## $\phi_B / \phi_{F}$ Potencial de Bulk/Fermi
 Se refiere a la magnitud por la cual el nivel de Fermi difiere del nivel intrínseco del semiconductor. Es una propiedad del material dopado.

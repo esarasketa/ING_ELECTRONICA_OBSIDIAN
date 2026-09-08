@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Un semiconductor (Como el silicio) al cual se le agregan átomos contaminantes para cambiar su comportamiento eléctrico.
 
 
@@ -40,3 +44,5 @@ $\LARGE N = n_0 - p_0 = N_p^+ -N_a^-$
 Notar como los átomos fijos que se introdujeron con la contaminación se ubican en la banda prohibida, la cual es dada por el material. Se puede decir que se genera una banda permitida dentro de la banda prohibida.
 Recordamos que se necesita una energía $E_G$ para saltar la barrera, por lo que estas bandas actúan como escalón entre las bandas.
 
+
+#DISPO

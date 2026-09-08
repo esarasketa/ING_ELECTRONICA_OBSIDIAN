@@ -2,6 +2,7 @@
   "theme": "obsidian",
   "accentColor": "#f5bd5c",
   "enabledCssSnippets": [
-    "LargerLatex"
+    "LargerLatex",
+    "TableEdits"
   ]
 }

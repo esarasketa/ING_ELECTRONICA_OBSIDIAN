@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Union entre dos [[Semiconductor Extrínseco|semiconductor extrínsecos]], uno tipo $P$ y uno tipo $N$. Son el principio de funcionamiento de los [[Diodos|Diodos Clásicos]].
 
 Puntualmente, llamamos **Juntura** a la zona de inflexión donde el material pasa de ser $N$ a ser $P$.
@@ -76,3 +80,4 @@ Además, $\Large p_{n_0}=p_{p_0}\cdot exp(-\frac{q\varphi_0}{kT})$
 De que nos sirve esto? Bueno, la derivada un potencial $\varphi$, con respecto al espacio $x$ es un campo eléctrico $E$, osea:
 ![[firefox_pjoX1T6B6V.png]]
 Con esto, ya podés entender [[Diodos]].
+#DISPO
