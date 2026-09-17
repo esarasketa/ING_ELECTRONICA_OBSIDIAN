@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 # Caídas de tensión 
 En la practica, todo material tiene resistencia.
 En la juntura P-N concebimos de una conductividad, por lo que si o si debe existir una resistividad (Gracias, ohm)

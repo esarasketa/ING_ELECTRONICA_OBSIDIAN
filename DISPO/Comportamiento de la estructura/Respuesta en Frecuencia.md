@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Como viste en [[MOSFET (Canal Largo)#Curva de corriente|el desarrollo de corriente de drenaje]], $I_D$ es una función de $V_D$ y $V_{GS}$ 
 $\large I_D = f(V_{GS}, V_D)$ 
 

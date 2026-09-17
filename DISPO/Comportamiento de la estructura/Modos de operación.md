@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 
 ### Acumulación 
 Polarización negativa, - en el metal, + en el bulk.

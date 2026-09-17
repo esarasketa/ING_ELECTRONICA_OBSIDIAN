@@ -240,6 +240,10 @@
       "x": 40,
       "y": 0
     },
+    "Impedancia.md": {
+      "x": -39.65241236691527,
+      "y": 135.3247085619655
+    },
     "Comportamiento de la estructura/Respuesta en Frecuencia.md": {
       "x": 120,
       "y": 100
@@ -263,6 +267,10 @@
     "Comportamiento de la estructura/Diodo No Ideal.md": {
       "x": 80,
       "y": 40
+    },
+    "Admitancia.md": {
+      "x": -23.493209977795782,
+      "y": 165.16268062257674
     }
   },
   "saved_layout_settings": {
@@ -495,9 +503,9 @@
     "export_static_html_path": ""
   },
   "view_state": {
-    "pan_x": 224.69902744000166,
-    "pan_y": 20.64670994352492,
-    "zoom": 1,
+    "pan_x": 138.3487458075898,
+    "pan_y": 15.58025913988385,
+    "zoom": 3.4606399463405673,
     "side_panel_sections": {}
   }
 }

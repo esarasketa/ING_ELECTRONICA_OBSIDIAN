@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 Como el ser humano es avaricioso como la mierda,
 El scaling lleva a reducir el tamaña del MOSFET hasta puntos donde el canal se vuelve comparable, igual, si no mayor que la profundidad $X$.
 Que significa esto? GG a la aproximación de canal gradual, hola a una barbarie de problemas, ahora que nuestro canal es directamente dependiente del $E$.

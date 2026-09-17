@@ -11,10 +11,14 @@
             "id": "cdf4480a7fbb0f0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Medios de Enlace/Ecuación de Laplace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ecuación de Laplace"
             }
           },
           {
@@ -202,13 +206,22 @@
   },
   "active": "cdf4480a7fbb0f0c",
   "lastOpenFiles": [
+    "APLICADA 1/Clase N 2026_09_16.md",
+    "Medios de Enlace/Ecuación de Laplace.md",
+    "Medios de Enlace",
+    "Pasted image 20260916093822.png",
+    "Pasted image 20260916091640.png",
+    "Pasted image 20260916090455.png",
+    "Pasted image 20260916084446.png",
     "DIGITALES I/Contador LFSR.md",
+    "DISPO/Modelos, Teoría/Parametros/Potenciales variables.md",
+    "DISPO/Modelos, Teoría/Modelo de Giacoletto.md",
+    "DISPO",
     "DIGITALES I/Contadores.md",
     "DIGITALES I/Tiempos de Operación.md",
     "DIGITALES I/Contador Johnson.md",
     "DIGITALES I/Attachments/Pasted image 20260908193207.png",
     "DIGITALES I/Contador en Anillo.md",
-    "Modelo de Giacoletto.md",
     "DIGITALES I/Metaestabilidad.md",
     "Teoría de Circuitos I/Impedancia.md",
     "Teoría de Circuitos I/Factores de Potencia.md",
@@ -216,8 +229,8 @@
     "Untitled 1.base",
     "Teoría de Circuitos I/Análisis Matricial de Circuitos.md",
     "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md",
-    "Materiales, Estructuras/Diodos.md",
-    "Materiales, Estructuras/Contactos Óhmicos.md",
+    "DISPO/Materiales, Estructuras/Diodos.md",
+    "DISPO/Materiales, Estructuras/Contactos Óhmicos.md",
     "DIGITALES I/Attachments/Pasted image 20260908152142.png",
     "DIGITALES I/Attachments/ps3B73.tmp",
     "Pasted image 20260905091633.png",
@@ -226,18 +239,12 @@
     "DIGITALES I/Attachments/Pasted image 20260908134432.png",
     "DIGITALES I/Attachments/ps4CC8.tmp",
     "Pasted image 20260908133737.png",
-    "Pasted image 20260905095050.png",
     "DIGITALES I/Attachments/ps5842.tmp",
-    "Pasted image 20260905093609.png",
-    "Pasted image 20260803135051.png",
-    "Pasted image 20260519174227.png",
     "DIGITALES I/Attachments/ps7A93.tmp",
     "DIGITALES I/Attachments/psB215.tmp",
     "DIGITALES I/Attachments/ps43E0.tmp",
-    "Materiales, Estructuras/MOSFET.md",
+    "DISPO/Materiales, Estructuras/MOSFET.md",
     "DIGITALES I/Attachments/psEAE0.tmp",
-    "DIGITALES I/Attachments/ps8AC1.tmp",
-    "DIGITALES I/Attachments/ps6DC0.tmp",
     "APLICADA 1/Clase 6 2026_09_5.md",
     "APLICADA 1/Clase 2 2026_08_12.md",
     "APLICADA 1/Clase 1 2026_08_12.md",
@@ -245,8 +252,6 @@
     "APLICADA 1/Screencaps/Untitled.md",
     "APLICADA 1/INTRO.md",
     "TODO.md",
-    "Materiales, Estructuras/Juntura P-N.md",
-    "Modelos, Teoría/Red Cristalina.md",
     "Untitled.canvas"
   ]
 }

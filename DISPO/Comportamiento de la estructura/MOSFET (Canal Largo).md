@@ -1,3 +1,7 @@
+---
+tags:
+  - DISPO
+---
 
 ### Tensión Umbral $V_T$
 El primer concepto a introducir para entender el funcionamiento del MOSFET.
