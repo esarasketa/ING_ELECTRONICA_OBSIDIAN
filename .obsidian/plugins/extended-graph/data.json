@@ -1,7 +1,7 @@
 {
   "enableFeatures": {
     "graph": {
-      "auto-enabled": true,
+      "auto-enabled": false,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -12,7 +12,7 @@
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
       "focus": false,
-      "shapes": true,
+      "shapes": false,
       "elements-stats": false,
       "names": false,
       "icons": false,
@@ -20,7 +20,7 @@
       "layers": false
     },
     "localgraph": {
-      "auto-enabled": true,
+      "auto-enabled": false,
       "tags": false,
       "properties": false,
       "property-key": false,
@@ -84,52 +84,59 @@
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
-    "showOrphans": true,
-    "collapse-color-groups": false,
+    "showOrphans": false,
+    "collapse-color-groups": true,
     "colorGroups": [
-      {
-        "query": "tag:#DISPO  ",
-        "color": {
-          "a": 1,
-          "rgb": 14725458
-        }
-      },
       {
         "query": "tag:#APLICADA_1  ",
         "color": {
           "a": 1,
-          "rgb": 11657298
+          "rgb": 15049503
         }
       },
       {
-        "query": "tag:#DIGITALES_1",
+        "query": "tag:#DISPO  ",
         "color": {
           "a": 1,
-          "rgb": 5431378
+          "rgb": 14538556
+        }
+      },
+      {
+        "query": "tag:#DIGITALES_1  ",
+        "color": {
+          "a": 1,
+          "rgb": 3201339
         }
       },
       {
         "query": "tag:#TEORIA_DE_CIRCUITOS_1  ",
         "color": {
           "a": 1,
-          "rgb": 14701138
+          "rgb": 3554525
+        }
+      },
+      {
+        "query": "tag:#MEDIOS_DE_ENLACE  ",
+        "color": {
+          "a": 1,
+          "rgb": 15343432
         }
       }
     ],
-    "collapse-display": false,
+    "collapse-display": true,
     "showArrow": false,
-    "textFadeMultiplier": -3,
-    "nodeSizeMultiplier": 3.3377568264698,
+    "textFadeMultiplier": -2.1,
+    "nodeSizeMultiplier": 1.74524593080139,
     "lineSizeMultiplier": 5,
-    "collapse-forces": false,
-    "centerStrength": 0.182602508227341,
-    "repelStrength": 10,
-    "linkStrength": 1,
-    "linkDistance": 322,
-    "scale": 0.21280715164741743,
+    "collapse-forces": true,
+    "centerStrength": 0.267455305523437,
+    "repelStrength": 8.99404073645824,
+    "linkStrength": 0.768389219959086,
+    "linkDistance": 141,
+    "scale": 0.3807589981348831,
     "close": false
   },
-  "openInNewTab": true,
+  "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
   "states": [
     {
@@ -138,31 +145,38 @@
       "engineOptions": {
         "colorGroups": [
           {
-            "query": "TAG:#APLICADA_1  ",
+            "query": "tag:#APLICADA_1  ",
             "color": {
               "a": 1,
-              "rgb": 16749824
+              "rgb": 15049503
             }
           },
           {
             "query": "tag:#DISPO  ",
             "color": {
               "a": 1,
-              "rgb": 14725970
+              "rgb": 14538556
             }
           },
           {
-            "query": "tag:#DIGITALES_1 ",
+            "query": "tag:#DIGITALES_1  ",
             "color": {
               "a": 1,
-              "rgb": 5431380
+              "rgb": 3201339
             }
           },
           {
             "query": "tag:#TEORIA_DE_CIRCUITOS_1  ",
             "color": {
               "a": 1,
-              "rgb": 3950557
+              "rgb": 3554525
+            }
+          },
+          {
+            "query": "tag:#MEDIOS_DE_ENLACE  ",
+            "color": {
+              "a": 1,
+              "rgb": 15343432
             }
           }
         ],
@@ -172,108 +186,23 @@
         "showOrphans": false,
         "showTags": false,
         "lineSizeMultiplier": 5,
-        "nodeSizeMultiplier": 2.44300453615583,
+        "nodeSizeMultiplier": 1.74524593080139,
         "showArrow": false,
-        "textFadeMultiplier": -1.2,
-        "centerStrength": 0.432535800053367,
-        "linkDistance": 250,
-        "linkStrength": 1,
-        "repelStrength": 12.65625
+        "textFadeMultiplier": -2.1,
+        "centerStrength": 0.267455305523437,
+        "linkDistance": 141,
+        "linkStrength": 0.768389219959086,
+        "repelStrength": 8.99404073645824
       },
-      "toggleTypes": {
-        "tag": [],
-        "link": [],
-        "folder": []
-      },
-      "logicTypes": {
-        "tag": "OR",
-        "link": "OR",
-        "folder": "OR"
-      },
+      "toggleTypes": {},
+      "logicTypes": {},
       "enableLayers": false,
-      "currentLayerLevel": 0,
-      "pinNodes": {},
-      "hiddenLegendRows": [],
-      "collapsedLegendRows": []
-    },
-    {
-      "id": "3ef3f5a7-2c72-4f45-9cca-865f0e2b7d64",
-      "name": "Pinned state",
-      "enableLayers": false,
-      "currentLayerLevel": 0,
-      "toggleTypes": {
-        "tag": [],
-        "link": [],
-        "folder": []
-      },
-      "logicTypes": {
-        "tag": "OR",
-        "link": "OR",
-        "folder": "OR"
-      },
-      "pinNodes": {
-        "Comportamiento de la estructura/MOSFET (Canal Largo).md": {
-          "x": 476.71479286797796,
-          "y": -171.38601952005013
-        },
-        "Materiales, Estructuras/Estructura MOS.md": {
-          "x": -133.15793871794006,
-          "y": -357.3633889411426
-        },
-        "Materiales, Estructuras/MOSFET.md": {
-          "x": 259.85930430056465,
-          "y": -356.8117836975309
-        },
-        "Modelos, Teoría/Parametros/Capacidad y Carga.md": {
-          "x": -123.90819073738055,
-          "y": -165.29149825096545
-        }
-      },
-      "hiddenLegendRows": [],
-      "collapsedLegendRows": [],
-      "engineOptions": {
-        "colorGroups": [
-          {
-            "query": "path:\"Materiales, Estructuras\"  ",
-            "color": {
-              "a": 1,
-              "rgb": 14701138
-            }
-          },
-          {
-            "query": "path:\"Modelos, Teoría/Parametros\"  ",
-            "color": {
-              "a": 1,
-              "rgb": 15656747
-            }
-          },
-          {
-            "query": "path:\"Modelos, Teoría\"  ",
-            "color": {
-              "a": 1,
-              "rgb": 14651168
-            }
-          }
-        ],
-        "search": "",
-        "hideUnresolved": false,
-        "showAttachments": false,
-        "showOrphans": true,
-        "showTags": false,
-        "lineSizeMultiplier": 4.05572916666667,
-        "nodeSizeMultiplier": 1.8609375,
-        "showArrow": false,
-        "textFadeMultiplier": -1.3,
-        "centerStrength": 0,
-        "linkDistance": 167,
-        "linkStrength": 0,
-        "repelStrength": 0
-      }
+      "currentLayerLevel": 0
     }
   ],
-  "startingStateID": "3ef3f5a7-2c72-4f45-9cca-865f0e2b7d64",
+  "startingStateID": "default-vault",
   "syncDefaultState": false,
-  "saveConfigsWithState": true,
+  "saveConfigsWithState": false,
   "customColorMaps": {},
   "imageProperties": [
     "image"
@@ -300,7 +229,7 @@
   "focusScaleFactor": 1.8,
   "highlightOpenNodes": false,
   "highlightSearchResults": false,
-  "maxNodes": 500,
+  "maxNodes": 20,
   "delay": 500,
   "revertAction": false,
   "enableCSS": false,
@@ -308,47 +237,33 @@
   "shapeQueries": {
     "circle": {
       "combinationLogic": "AND",
-      "index": 1,
-      "rules": [
-        {
-          "source": "tag",
-          "property": "",
-          "value": "ShapeCircle",
-          "logic": "contains"
-        }
-      ]
+      "index": 0,
+      "rules": []
     },
     "square": {
       "combinationLogic": "AND",
-      "index": 2,
+      "index": 1,
       "rules": []
     },
     "triangle": {
       "combinationLogic": "AND",
-      "index": 3,
+      "index": 2,
       "rules": []
     },
     "diamond": {
       "combinationLogic": "AND",
-      "index": 4,
+      "index": 3,
       "rules": []
     },
     "pentagon": {
       "combinationLogic": "AND",
-      "index": 5,
+      "index": 4,
       "rules": []
     },
     "hexagon": {
       "combinationLogic": "AND",
-      "index": 0,
-      "rules": [
-        {
-          "source": "tag",
-          "property": "",
-          "value": "ShapeHexagon",
-          "logic": "contains"
-        }
-      ]
+      "index": 5,
+      "rules": []
     },
     "octagon": {
       "combinationLogic": "AND",
@@ -471,28 +386,7 @@
   "collapseState": true,
   "collapseLegend": true,
   "resetAfterChanges": false,
-  "collapsedSettings": {
-    "automation": true,
-    "tags": true,
-    "properties": true,
-    "links": true,
-    "arrows": true,
-    "folders": true,
-    "images": true,
-    "icons": true,
-    "focus": true,
-    "shapes": false,
-    "layers": true,
-    "elements-stats": true,
-    "names": true,
-    "zoom": true,
-    "local-graph": false,
-    "display": true,
-    "filter": true,
-    "inputs": true,
-    "performances": false,
-    "beta": true
-  },
+  "collapsedSettings": {},
   "selectionMode": "replace",
   "exportSVGOptions": {
     "asImage": true,
@@ -506,25 +400,5 @@
     "useModifiedNames": true,
     "showIcons": false
   },
-  "multipleNodesData": {
-    "shapeData": {
-      "type": "grid",
-      "center": {
-        "x": 0,
-        "y": 0
-      },
-      "step": 100
-    },
-    "queryData": {
-      "combinationLogic": "AND",
-      "rules": [
-        {
-          "source": "all",
-          "property": "",
-          "value": "",
-          "logic": ""
-        }
-      ]
-    }
-  }
+  "multipleNodesData": {}
 }

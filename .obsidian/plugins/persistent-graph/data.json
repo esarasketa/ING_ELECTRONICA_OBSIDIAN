@@ -1,239 +1,244 @@
 {
   "nodePositions": [
     {
-      "id": "DIGITALES I/Contador Johnson.md",
-      "x": 168.4262237548828,
-      "y": -722.5714721679688
-    },
-    {
-      "id": "DIGITALES I/Contador LFSR.md",
-      "x": -76.54273223876953,
-      "y": -1119.0255126953125
-    },
-    {
-      "id": "DIGITALES I/Contador en Anillo.md",
-      "x": -95.47149658203125,
-      "y": -867.4374389648438
-    },
-    {
-      "id": "DIGITALES I/Contadores.md",
-      "x": 151.364990234375,
-      "y": -977.5673217773438
-    },
-    {
-      "id": "Flip-Flop",
-      "x": 3.3938682079315186,
-      "y": -720.6689453125
-    },
-    {
-      "id": "DIGITALES I/Metaestabilidad.md",
-      "x": 9.900554656982422,
-      "y": -290.0692443847656
-    },
-    {
-      "id": "DIGITALES I/Tiempos de Operación.md",
-      "x": -149.9135284423828,
-      "y": -489.94268798828125
-    },
-    {
-      "id": "DISPO/Comportamiento de la estructura/Diodo No Ideal.md",
-      "x": -254.36912536621094,
-      "y": 148.4862518310547
-    },
-    {
-      "id": "DISPO/Comportamiento de la estructura/MOS NO IDEAL.md",
-      "x": 347.7725830078125,
-      "y": 76.75347137451172
-    },
-    {
-      "id": "DISPO/Comportamiento de la estructura/MOSFET (Canal Corto).md",
-      "x": 670.6098022460938,
-      "y": 752.1940307617188
-    },
-    {
-      "id": "DISPO/Comportamiento de la estructura/MOSFET (Canal Largo).md",
-      "x": 1000.9767456054688,
-      "y": 320.6607360839844
-    },
-    {
-      "id": "DISPO/Comportamiento de la estructura/Modos de operación.md",
-      "x": 569.4379272460938,
-      "y": 171.64697265625
-    },
-    {
-      "id": "DISPO/Comportamiento de la estructura/Respuesta en Frecuencia.md",
-      "x": 1007.0172729492188,
-      "y": 587.1910400390625
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Contactos Óhmicos.md",
-      "x": -743.1351318359375,
-      "y": 349.5074157714844
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Diodos.md",
-      "x": -484.856201171875,
-      "y": 287.79547119140625
-    },
-    {
-      "id": "Distribución de Maxwell",
-      "x": -401.15673828125,
-      "y": 36.020225524902344
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Estructura MOS.md",
-      "x": 447.9626770019531,
-      "y": 380.3135070800781
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Juntura P-N.md",
-      "x": -199.84019470214844,
-      "y": 356.7364807128906
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/MOSFET.md",
-      "x": 735.4317016601562,
-      "y": 491.7889709472656
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Semiconductor Extrínseco.md",
-      "x": 117.49907684326172,
-      "y": 422.9024963378906
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Semiconductor Intrínseco.md",
-      "x": 237.28564453125,
-      "y": 663.1006469726562
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Transistor BJT (Señal Débil).md",
-      "x": -707.758056640625,
-      "y": 46.8101921081543
-    },
-    {
-      "id": "DISPO/Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
-      "x": -961.2935791015625,
-      "y": 120.05365753173828
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Desplazamiento de Cargas.md",
-      "x": -577.6818237304688,
-      "y": 563.1160278320312
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Modelo de Giacoletto.md",
-      "x": -557.71923828125,
-      "y": -172.21047973632812
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Modelo de parámetros híbridos.md",
-      "x": -814.7275390625,
-      "y": -248.04957580566406
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Niveles de Energía.md",
-      "x": 160.7750244140625,
-      "y": 878.414306640625
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Parametros/Capacidad y Carga.md",
-      "x": 742.168701171875,
-      "y": 225.86196899414062
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Parametros/Conductividad.md",
-      "x": -792.939208984375,
-      "y": 747.296630859375
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Parametros/Masa Aparente.md",
-      "x": -306.115966796875,
-      "y": 992.8421630859375
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Parametros/Movilidad de Portadores.md",
-      "x": -575.5093383789062,
-      "y": 904.094970703125
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Parametros/Potencial de Extracción.md",
-      "x": 277.278564453125,
-      "y": -173.5127716064453
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Parametros/Potenciales variables.md",
-      "x": 631.612548828125,
-      "y": -54.61797332763672
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Principio de Exclusión de Pauli.md",
-      "x": -22.051565170288086,
-      "y": 953.9729614257812
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Red Cristalina.md",
-      "x": -342.3092956542969,
-      "y": 733.6508178710938
-    },
-    {
-      "id": "DISPO/Modelos, Teoría/Teoría de Bandas.md",
-      "x": -32.6602783203125,
-      "y": 687.8059692382812
-    },
-    {
-      "id": "Medios de Enlace/Ecuación de Laplace.md",
-      "x": -452.5225830078125,
-      "y": -717.38720703125
-    },
-    {
-      "id": "Medios de Enlace/Ecuación de Poisson.md",
-      "x": -632.0733642578125,
-      "y": -896.9202880859375
-    },
-    {
-      "id": "Medios de Enlace/Ley de Gauss.md",
-      "x": 483.0500793457031,
-      "y": -940.7728881835938
-    },
-    {
-      "id": "Ecuaciones de Maxwell",
-      "x": 684.0119018554688,
-      "y": -785.813720703125
-    },
-    {
-      "id": "Teoría de Circuitos I/Admitancia.md",
-      "x": 1022.0018920898438,
-      "y": -264.6539611816406
-    },
-    {
-      "id": "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md",
-      "x": 968.6495361328125,
-      "y": -530.071533203125
-    },
-    {
-      "id": "Teoría de Circuitos I/Factores de Potencia.md",
-      "x": 536.3056640625,
-      "y": -456.6392517089844
-    },
-    {
-      "id": "Teoría de Circuitos I/Impedancia.md",
-      "x": 777.0951538085938,
-      "y": -361.8693542480469
-    },
-    {
-      "id": "APLICADA 1/TEORIA/Resistencias de Entrada y Salida.md",
-      "x": -928.0742797851562,
-      "y": -492.2578125
+      "id": "APLICADA 1/Efecto de Early.md",
+      "x": -802.8584594726562,
+      "y": -523.4471435546875
     },
     {
       "id": "APLICADA 1/TEORIA/Ganancia de Tensión.md",
-      "x": -1086.73388671875,
-      "y": -286.321533203125
+      "x": -538.0945434570312,
+      "y": -833.1312255859375
     },
     {
-      "id": "Efecto de Early.md",
-      "x": -657.7500610351562,
-      "y": -461.86041259765625
+      "id": "APLICADA 1/TEORIA/Resistencias de Entrada y Salida.md",
+      "x": -621.3843383789062,
+      "y": -685.4395751953125
+    },
+    {
+      "id": "DIGITALES I/Contador Johnson.md",
+      "x": 361.851318359375,
+      "y": -399.1895446777344
+    },
+    {
+      "id": "DIGITALES I/Contador LFSR.md",
+      "x": 627.2144775390625,
+      "y": -280.4466857910156
+    },
+    {
+      "id": "DIGITALES I/Contador en Anillo.md",
+      "x": 457.46173095703125,
+      "y": -252.9635467529297
+    },
+    {
+      "id": "DIGITALES I/Contadores.md",
+      "x": 536.6060791015625,
+      "y": -440.7312927246094
+    },
+    {
+      "id": "DIGITALES I/Metaestabilidad.md",
+      "x": 561.67041015625,
+      "y": -832.9364013671875
+    },
+    {
+      "id": "DIGITALES I/Tiempos de Operación.md",
+      "x": 700.5198974609375,
+      "y": -743.9912719726562
+    },
+    {
+      "id": "DISPO/Comportamiento de la estructura/Diodo No Ideal.md",
+      "x": -731.1964111328125,
+      "y": 138.71142578125
+    },
+    {
+      "id": "DISPO/Comportamiento de la estructura/MOS NO IDEAL.md",
+      "x": 212.63858032226562,
+      "y": 491.0993347167969
+    },
+    {
+      "id": "DISPO/Comportamiento de la estructura/MOSFET (Canal Corto).md",
+      "x": 284.1975402832031,
+      "y": 1021.53564453125
+    },
+    {
+      "id": "DISPO/Comportamiento de la estructura/MOSFET (Canal Largo).md",
+      "x": 644.2666625976562,
+      "y": 768.3377685546875
+    },
+    {
+      "id": "DISPO/Comportamiento de la estructura/Modos de operación.md",
+      "x": 246.58714294433594,
+      "y": 642.5531005859375
+    },
+    {
+      "id": "DISPO/Comportamiento de la estructura/Respuesta en Frecuencia.md",
+      "x": 803.3719482421875,
+      "y": 642.0404052734375
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Contactos Óhmicos.md",
+      "x": -729.7567138671875,
+      "y": 262.7353820800781
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Diodos.md",
+      "x": -556.5579833984375,
+      "y": 173.0973358154297
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Estructura MOS.md",
+      "x": 123.9404525756836,
+      "y": 771.35009765625
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Juntura P-N.md",
+      "x": -481.13323974609375,
+      "y": 418.4776306152344
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/MOSFET.md",
+      "x": 388.5485534667969,
+      "y": 882.3720703125
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Semiconductor Extrínseco.md",
+      "x": -240.9097900390625,
+      "y": 702.6787719726562
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Semiconductor Intrínseco.md",
+      "x": -398.4134826660156,
+      "y": 659.5658569335938
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Transistor BJT (Señal Débil).md",
+      "x": -654.6995239257812,
+      "y": -143.3293914794922
+    },
+    {
+      "id": "DISPO/Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
+      "x": -802.5464477539062,
+      "y": -235.525146484375
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Desplazamiento de Cargas.md",
+      "x": -373.07183837890625,
+      "y": -15.407764434814453
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Modelo de Giacoletto.md",
+      "x": -831.0070190429688,
+      "y": -92.12710571289062
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Modelo de parámetros híbridos.md",
+      "x": -643.3477783203125,
+      "y": -466.6287841796875
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Niveles de Energía.md",
+      "x": -168.69741821289062,
+      "y": 335.7948913574219
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Parametros/Capacidad y Carga.md",
+      "x": 421.0980529785156,
+      "y": 718.667724609375
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Parametros/Conductividad.md",
+      "x": -239.73699951171875,
+      "y": -247.249755859375
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Parametros/Masa Aparente.md",
+      "x": -18.178598403930664,
+      "y": 16.16326332092285
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Parametros/Movilidad de Portadores.md",
+      "x": -79.51969146728516,
+      "y": -180.3417205810547
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Parametros/Potencial de Extracción.md",
+      "x": 267.9184265136719,
+      "y": 320.2230529785156
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Parametros/Potenciales variables.md",
+      "x": 420.0121154785156,
+      "y": 509.4109802246094
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Principio de Exclusión de Pauli.md",
+      "x": -145.416259765625,
+      "y": 552.7459106445312
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Red Cristalina.md",
+      "x": -180.62208557128906,
+      "y": 82.43213653564453
+    },
+    {
+      "id": "DISPO/Modelos, Teoría/Teoría de Bandas.md",
+      "x": -276.8506774902344,
+      "y": 457.774658203125
+    },
+    {
+      "id": "Medios de Enlace/Ecuación de Laplace.md",
+      "x": 861.7619018554688,
+      "y": 238.3976593017578
+    },
+    {
+      "id": "Medios de Enlace/Ecuación de Poisson.md",
+      "x": 736.4606323242188,
+      "y": 136.18063354492188
+    },
+    {
+      "id": "Medios de Enlace/Ley de Gauss.md",
+      "x": 1000.07373046875,
+      "y": -192.46397399902344
+    },
+    {
+      "id": "Modelos Equivalentes Parámetros H.md",
+      "x": -483.98040771484375,
+      "y": -519.4525756835938
+    },
+    {
+      "id": "Teoría de Circuitos I/Admitancia.md",
+      "x": 191.10791015625,
+      "y": -893.4063110351562
+    },
+    {
+      "id": "Teoría de Circuitos I/Cambio entre Impedancia y Admitancia.md",
+      "x": 72.22310638427734,
+      "y": -763.3663940429688
+    },
+    {
+      "id": "Teoría de Circuitos I/Factores de Potencia.md",
+      "x": -135.15113830566406,
+      "y": -967.4384765625
+    },
+    {
+      "id": "Teoría de Circuitos I/Impedancia.md",
+      "x": 24.23993682861328,
+      "y": -936.111328125
+    },
+    {
+      "id": "Flip-Flop",
+      "x": 689.734619140625,
+      "y": -557.9463500976562
+    },
+    {
+      "id": "Distribución de Maxwell",
+      "x": -637.4877319335938,
+      "y": 339.45733642578125
+    },
+    {
+      "id": "Ecuaciones de Maxwell",
+      "x": 1029.0169677734375,
+      "y": -34.4968376159668
     }
   ],
   "pinnedNodes": [],
@@ -242,7 +247,7 @@
   "automaticallyRestoreNodePositions": true,
   "enableSaveOptions": false,
   "enableWorkspaces": false,
-  "timesShowedRestoredNotification": 4,
+  "timesShowedRestoredNotification": 3,
   "showSaveNotification": false,
   "enableGraphSimulationCommands": false,
   "enableAutoSave": false,

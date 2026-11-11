@@ -1,4 +1,4 @@
-
+#MEDIOS_DE_ENLACE
 La ecuación de Laplace, dada por: $\nabla^2 V = 0$ nos permite calcular el potencial eléctrico en regiones del espacio que ***no contienen cargas libres***.
 
 En caso de que esta condición no se cumpla, se trataría de una ***[[Ecuación de Poisson]]***.

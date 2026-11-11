@@ -4,48 +4,55 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "tag:#DISPO  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
     {
       "query": "tag:#APLICADA_1  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15049503
       }
     },
     {
-      "query": "tag:#DIGITALES_1",
+      "query": "tag:#DISPO  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14538556
+      }
+    },
+    {
+      "query": "tag:#DIGITALES_1  ",
+      "color": {
+        "a": 1,
+        "rgb": 3201339
       }
     },
     {
       "query": "tag:#TEORIA_DE_CIRCUITOS_1  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3554525
+      }
+    },
+    {
+      "query": "tag:#MEDIOS_DE_ENLACE  ",
+      "color": {
+        "a": 1,
+        "rgb": 15343432
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 3.3377568264698,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.74524593080139,
   "lineSizeMultiplier": 5,
-  "collapse-forces": false,
-  "centerStrength": 0.182602508227341,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 322,
-  "scale": 0.21280715164741743,
+  "collapse-forces": true,
+  "centerStrength": 0.267455305523437,
+  "repelStrength": 8.99404073645824,
+  "linkStrength": 0.768389219959086,
+  "linkDistance": 141,
+  "scale": 0.3807589981348831,
   "close": false
 }

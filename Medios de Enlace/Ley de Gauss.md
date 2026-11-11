@@ -1,3 +1,4 @@
+#MEDIOS_DE_ENLACE
 Una de las cuatro [[Ecuaciones de Maxwell]], la ley de Gauss plantea en su forma mas integral, que el flujo de un campo eléctrico, hacía fuera de un cuerpo gaussiano (Un volumen cerrado) es proporcional a la carga atrapada en su superficie.
 
 En su forma elemental, se presenta así:

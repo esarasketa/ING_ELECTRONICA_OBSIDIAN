@@ -1,3 +1,4 @@
+#MEDIOS_DE_ENLACE
 Caso de la [[Ecuación de Laplace]] cuando existen cargas libres en el volumen.
 
 $\nabla ^2V=\Large\frac{-\rho}{\epsilon_{medio}}$
