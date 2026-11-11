@@ -1,0 +1,52 @@
+{
+  "savedViews": [],
+  "cameras": {},
+  "inkSizes": {
+    "pen": 1,
+    "highlighter": 1
+  },
+  "inkColors": {
+    "pen": "#f4f4f2",
+    "highlighter": "#ffd60a"
+  },
+  "pressureSensitivity": true,
+  "pressureChoice": true,
+  "inkSmoothing": true,
+  "inkAdaptsToTheme": false,
+  "inkReadableInExports": true,
+  "inkPdfColorMode": "darken",
+  "pageOwners": {
+    "9968e6a7-57ca-4843-8650-a8078fbcde0c": "APLICADA 1/Verificación MOSFET 1er Parcial 8_10_2025.md",
+    "6d3291e2-29fd-45ae-a894-71e720dabc4e": "APLICADA 1/Clase N 2026_10_31.md"
+  },
+  "eraserRadiusPx": 3,
+  "mouseInk": false,
+  "strokePrediction": true,
+  "booxMode": false,
+  "einkHintOffered": false,
+  "scribbleHintOffered": false,
+  "paperStyle": "none",
+  "extendCanvasWhileScrolling": false,
+  "hideStatusBarOnInkedNotes": false,
+  "penTools": "auto",
+  "noteZoomControls": "auto",
+  "barsRestore": null,
+  "eraserMode": "stroke",
+  "penReticle": true,
+  "shapeSnap": true,
+  "devDiagnostics": false,
+  "slidesInk": true,
+  "colorSizeCommands": true,
+  "penPresets": [],
+  "toolbarCorner": "top-right",
+  "stripFoldOrder": [
+    "editor:redo",
+    "handwriting:inline-tool-pan",
+    "handwriting:pen-ink-toggle",
+    "handwriting:paste-ink",
+    "handwriting:copy-selected-ink",
+    "handwriting:inline-tool-space"
+  ],
+  "inkFolder": ".handwriting",
+  "lastSeenVersion": "1.4.24"
+}

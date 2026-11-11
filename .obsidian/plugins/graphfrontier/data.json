@@ -278,7 +278,6 @@
     "show_grid": true,
     "hide_orphans": true,
     "hide_attachments": true,
-    "attachments_on_orbits": true,
     "existing_files_only": true,
     "search_mode": "find",
     "quick_pick_modifier": "alt",
@@ -292,8 +291,6 @@
     "hover_dim_strength": 80,
     "strong_pull_multiplier": 1,
     "orbit_distance": 48,
-    "attachment_size_multiplier": 1,
-    "attachment_link_distance_multiplier": 20,
     "base_link_strength": 46,
     "link_distance": 24,
     "repel_strength": 51,
@@ -301,7 +298,9 @@
     "center_strength": 1,
     "damping": 0.18,
     "layout_autosave": true,
-    "export_static_html_path": ""
+    "export_static_html_path": "",
+    "attachment_node_color": null,
+    "excluded_attachment_extensions": []
   },
   "saved_layout_pins": {
     "Modelos, Teoría/Teoría de Bandas.md": {
@@ -449,50 +448,64 @@
   "node_force_multipliers": {},
   "strong_pull_nodes": {},
   "painted_edge_colors": {},
+  "node_label_sizes": {},
+  "node_visual_settings": {},
   "groups": [
     {
       "id": "group_mrl0lxc3_1qsvl5",
       "query": "path:Materiales, Estructuras",
       "color": "#f77878",
-      "enabled": true
+      "enabled": true,
+      "settings": {}
     },
     {
       "id": "group_mrl0msz7_qblheb",
       "query": "path:Modelos, Teoría/Parametros/",
       "color": "#eff778",
-      "enabled": true
+      "enabled": true,
+      "settings": {}
     },
     {
       "id": "group_mrl0nvwz_uf78ru",
       "query": "path:Modelos, Teoría/",
       "color": "#fea43e",
-      "enabled": true
+      "enabled": true,
+      "settings": {}
     }
   ],
+  "dark_energy": [],
+  "subgraphs": [],
+  "subgraph_cameras": {},
+  "subgraph_filters": {},
   "blacklist": [],
   "whitelist": [],
   "hotkeys": {},
   "settings": {
     "grid_step": 20,
+    "grid_line_width": 1,
     "show_grid": true,
     "hide_orphans": true,
     "hide_attachments": true,
-    "attachments_on_orbits": true,
+    "include_unlinked_attachments": false,
+    "excluded_attachment_extensions": [],
     "existing_files_only": true,
     "search_mode": "find",
+    "show_search_connections": false,
     "quick_pick_modifier": "alt",
     "selection_box_modifier": "shift",
     "selection_toggle_modifier": "none",
     "node_size_scale": 1.11,
-    "edge_width_scale": 5.46,
+    "node_color": "#7aa2f7",
+    "attachment_node_color": null,
+    "aura_radius": 0,
+    "aura_brightness": 22,
+    "edge_width_scale": 1,
     "painted_edge_width": 1,
     "label_zoom_steps": 14,
     "label_font_size": 20,
     "hover_dim_strength": 80,
     "strong_pull_multiplier": 1,
     "orbit_distance": 48,
-    "attachment_size_multiplier": 1,
-    "attachment_link_distance_multiplier": 20,
     "base_link_strength": 46,
     "link_distance": 24,
     "repel_strength": 51,
@@ -500,12 +513,22 @@
     "center_strength": 1,
     "damping": 0.18,
     "layout_autosave": true,
-    "export_static_html_path": ""
+    "export_static_html_path": "",
+    "export_static_html_mobile_path": ""
   },
   "view_state": {
     "pan_x": 138.3487458075898,
     "pan_y": 15.58025913988385,
     "zoom": 3.4606399463405673,
-    "side_panel_sections": {}
+    "side_panel_sections": {},
+    "camera_saved": false,
+    "search_query": "name:",
+    "node_filter": null
+  },
+  "subgraph_coordinates": "local-v1",
+  "backups": {
+    "enabled": true,
+    "folder": "GraphFrontier backups",
+    "owner": "gf-mvwdezor-h87sw2tqe4a"
   }
 }
