@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "LargerLatex",
     "TableEdits"
-  ]
+  ],
+  "showRibbon": true
 }

@@ -5,7 +5,7 @@ Es la relación entre el voltaje de salida y el voltaje **justo en la entrada** 
 Ignora brutalmente a la resistencia de la fuente no ideal $R_{s}$, al igual que a las perdidas por acoplamiento.
 Suele ser mayor que $A_{vs}$ por dichas razones.
 
-$\boxed{A_{v}=\frac{v_{o}}{v_{in}}}$
+$\boxed{A_{v}=\frac{v_{o}}{v_{in}}=\frac{hfe \cdot R_{os}}{hie}}$
 
 # $A_{vs}$   Ganancia de Tensión del Sistema
 De la misma forma, $A_{vs}$ va a calcular un ratio entre tensiones, pero a diferencia de $A_v$, va a incluir tanto la $R_L$ como la $R_S$.
@@ -13,6 +13,9 @@ De la misma forma, $A_{vs}$ va a calcular un ratio entre tensiones, pero a difer
 Para evitar problemas con los inversores, se define utilizando módulos:
 $\boxed{\left|{{A_{vs}}}\right|=\frac{\left|{{v_{o}}}\right|}{\left|{{v_{s}}}\right|}= {\frac{R_{iA}}{R_{is}}}\cdot \frac{hfe \cdot R_{os}}{hie}}$    Abajo se explica como se obtiene.
 
+### Relación $A_v/A_{vs}$
+En el calculo de arriba, $\frac{R_{iA}}{R_{is}}$  se la llama "atenuación de entrada".
+Es el factor que $A_v$ no toma en cuenta. Por lo tanto, $\boxed{\left|{{A_{vs}}}\right|= {\frac{R_{iA}}{R_{is}}}\cdot |A_{v}|}$ 
 # Calculo de $A_{vs}$
 
 Partiendo del circuito equivalente de un BJT en configuración Emisor Común. 

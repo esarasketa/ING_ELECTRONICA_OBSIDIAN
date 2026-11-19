@@ -1,4 +1,4 @@
-
+#MEDIOS_DE_ENLACE 
 $\overline\nabla \wedge \overline{H} = \overline{J}+\frac{\partial}{\partial t}\overline{D}$ 
 
 $\displaystyle\oint_C \overline{H}\cdot d\ell=\int_{Sup}\overline{J}\cdot \overline{dSup}$
